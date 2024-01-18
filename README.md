@@ -2,6 +2,8 @@
 
 🌟About Me:
    >> 🔥I'm a creative frontend developer and designer passionate about crafting delightful and immersive web experiences. With a blend of coding and design skills, I bring         ideas to life with a touch of aesthetics.
+
+
    >> 🪴Currently, I'm exploring more about advance JavaScript and 3d, and I'm thrilled to share my journey with you.
 
 💻Tech Stacks:
