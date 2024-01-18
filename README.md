@@ -8,6 +8,7 @@
 
 💻Tech Stacks:
    >> 📚 Languages: JavaScript , C++
+
    >> 🛠️ GSAP, Locomotive, Shery JS
 
 🧑‍💻 Current Focus:
@@ -18,6 +19,7 @@
 
 🤝 Let's Connect:
    >> 📩 How to Reach me : Just Drop a message !
+
    >> ⚔️ Fun fact: When I am not coding, I enjoy speding time in nature and practicing my batting.
  
 Let's collaborate and create beautiful and functional web experiences! 💪🚀
