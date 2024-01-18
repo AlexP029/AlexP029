@@ -1,16 +1,25 @@
-### Hi there 👋
+👋Hi,I'm Daya!
 
-<!--
-**AlexP029/AlexP029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟About Me:
 
-Here are some ideas to get you started:
+  >> 🔥I'm a creative frontend developer and designer passionate about crafting delightful and immersive web experiences. With a blend of coding and design skills, I bring         ideas to life with a touch of aesthetics.
+  >> 🪴Currently, I'm exploring more about advance JavaScript and 3d, and I'm thrilled to share my journey with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻Tech Stacks:
+
+  >> 📚 Languages: JavaScript , C++
+  >> 🛠️ GSAP, Locomotive, Shery JS
+
+🧑‍💻 Current Focus
+
+  >> 🌐I'm currently crafting my portfolio as a canvas for design and frontend harmony. Excited to share the magic soon!
+
+🌱 Recent Learnings
+
+  >> 🎯I recently delved into JavaScript Animations to enhance my creative process. Always open to learning and pushing the boundaries of design and development.
+
+🤝 Let's Connect:
+  >> 📩 How to Reach me : Just Drop a message !
+  >> ⚔️ Fun fact: When I am not coding, I enjoy speding time in nature and practicing my batting.
+ 
+Let's collaborate and create beautiful and functional web experiences! 💪🚀
