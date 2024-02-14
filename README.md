@@ -7,9 +7,9 @@
    >> 🪴Currently, I'm exploring more about advance JavaScript and 3d, and I'm thrilled to share my journey with you.
 
 💻Tech Stacks:
-   >> 📚 Languages: JavaScript , C++
+   >> 📚 Languages: JavaScript , C++ ,Java
 
-   >> 🛠️ GSAP, Locomotive, Shery JS
+   >> 🛠️ GSAP, Locomotive JS, Shery JS, Barba JS, Swipper JS
 
 🧑‍💻 Current Focus:
    >> 🌐I'm currently crafting my portfolio as a canvas for design and frontend harmony. Excited to share the magic soon!
